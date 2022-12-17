@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to gym and play guitar / research
-- 😻 Check out the NFT collection I created: 
+
 
 ### Connect with me:
 
