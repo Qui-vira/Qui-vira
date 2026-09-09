@@ -11,14 +11,15 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**Tbr-Medband**](https://github.com/Qui-vira/Tbr-Medband) | Multi-agent healthcare workflow. Agents handle intake, medication verification and pharmacy availability. A licensed human approves every output, and the gate is enforced in the workflow state machine, not in a prompt. | Python, Claude API, PostgreSQL |
-| [**mediflow-sui**](https://github.com/Qui-vira/mediflow-sui) | MedBand for the Band of Agents Hackathon 2026, Track 3: regulated and high-stakes workflows. | Python |
+| [**peaceway-online**](https://github.com/Qui-vira/peaceway-online) | Pharmacy commerce platform, live at [peacewayonline.com](https://peacewayonline.com). Customer, staff and partner portals, medicine requests, medication reminders, and a Telegram ordering bot that has carried a real order to a confirmed itemised total. Prescription-only items are structurally prevented from showing a price. | Python 3.11, aiogram 3, FastAPI, SQLAlchemy 2 async, PostgreSQL, Next.js |
+| [**bigquivdigitals**](https://github.com/Qui-vira/bigquivdigitals) | Production platform, live at [bigquivdigitals.com](https://bigquivdigitals.com). 31 pages, 10 API routes, dual payment rails for card and on-chain payment, a Telegram course-access gate, and an admin dashboard for leads, students and outreach. | Next.js 16, React 19, TypeScript, Drizzle ORM, Neon |
 | [**pharmaos-backend**](https://github.com/Qui-vira/pharmaos-backend) | Pharmacy operations backend. The inventory and product source the ordering service imports from. | Python |
 | [**pharmaos-frontend**](https://github.com/Qui-vira/pharmaos-frontend) | The PharmaOS operations dashboard. | Next.js 14, TypeScript |
 | [**altara-energy-network**](https://github.com/Qui-vira/altara-energy-network) | Solar project management platform. Readiness assessment with photo upload, appliance load calculator, quote builder, pro-forma invoicing. | Next.js, TypeScript, Prisma, NextAuth |
 | [**watermark-guard**](https://github.com/Qui-vira/watermark-guard) | Telegram bot that watermarks every image posted to a group or channel, at post time. | Python, Telegram Bot API |
 | [**web3-job-bible**](https://github.com/Qui-vira/web3-job-bible) | Open guide to landing paid Web3 work without a traditional tech background. | HTML, JavaScript |
 
-**Peaceway Online** is live at [peacewayonline.com](https://peacewayonline.com). Pharmacy commerce with customer, staff and partner portals, medicine requests, medication reminders, and a Telegram ordering bot that has carried a real order to a confirmed itemised total. Private repo, public platform.
+Every one of these is public. Open any of them.
 
 ---
 
