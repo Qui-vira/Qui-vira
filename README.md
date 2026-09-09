@@ -14,7 +14,7 @@
 
 → **Production web platforms** carrying real payment rails, real access control and real users
 
-I call models through APIs and build systems around them. I do not train models, and I do not describe myself as an ML engineer or a data scientist.
+I call models through APIs and build the systems around them.
 
 ---
 
