@@ -2,7 +2,7 @@
 
 **AI engineer.** I build multi-agent AI systems and the platforms that run them.
 
-`3,000+ students taught` &nbsp;·&nbsp; `Founder, Ophir Institute` &nbsp;·&nbsp; `Lagos, Nigeria`
+`3,000+ students and clients` &nbsp;·&nbsp; `Founder, Ophir Institute` &nbsp;·&nbsp; `Lagos, Nigeria`
 
 ---
 
@@ -53,7 +53,7 @@ I call models through APIs and build the systems around them.
 
 ### Teaching
 
-I founded **Ophir Institute**, a developer school that trains engineers into paid work. Over 3,000 students taught across Ophir, Nirvana Academy and my own courses.
+I founded **Ophir Institute**, a developer school that trains engineers into paid work. Over 3,000 students and clients across Ophir, Nirvana Academy and my own courses.
 
 → Two students **won the Flow bounty** at LearnWeb3's *Decentralized Intelligence Season 1* hackathon with SwiftPay, an AI-assisted payroll and invoicing application built on Flow and Streamr
 
